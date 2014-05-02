@@ -1,7 +1,7 @@
 %!PS-Adobe-2.0 EPSF-2.0
-%%Title: fig_equivalent_diversity_model.fig
+%%Title: fig_equivalent_diversity_model_b.fig
 %%Creator: fig2dev Version 3.2 Patchlevel 5c
-%%CreationDate: Sat May  3 00:53:11 2014
+%%CreationDate: Sat May  3 00:59:06 2014
 %%For: maciej@macmat (,S-1-5-21-2802288663-1349938878-1071959951-1006)
 %%BoundingBox: 0 0 440 354
 %Magnification: 1.0000
@@ -128,6 +128,9 @@ n 0.0 0.0 m 9708.0 0.0 l s
 0 slj
 0 slc
 7.500 slw
+n 7158 14523 m 8039 14523 l 8039 14725 l 7158 14725 l
+ cp gs 0.00 setgray ef gr gs col0 s gr 
+% Polyline
 gs  clippath
 6989 16980 m 7140 16980 l 7140 16920 l 6989 16920 l 6989 16920 l 7109 16950 l 6989 16980 l cp
 eoclip
@@ -164,9 +167,6 @@ n 7158 16537 m 8025 16537 l 8025 16738 l 7158 16738 l
  cp gs 0.00 setgray ef gr gs col0 s gr 
 % Polyline
 n 7158 14212 m 8027 14212 l 8027 14414 l 7158 14414 l
- cp gs 0.00 setgray ef gr gs col0 s gr 
-% Polyline
-n 7158 14583 m 8039 14583 l 8039 14785 l 7158 14785 l
  cp gs 0.00 setgray ef gr gs col0 s gr 
 % Polyline
 gs  clippath
@@ -484,10 +484,10 @@ n 8635 14349 m 9647 14349 l 9647 14756 l 8635 14756 l
 n 7134 14202 m 8001 14202 l 8001 14404 l 7134 14404 l
  cp gs col7 1.00 shd ef gr gs col0 s gr 
 % Polyline
-n 4810 14349 m 5822 14349 l 5822 14756 l 4810 14756 l
+n 7134 14513 m 8001 14513 l 8001 14715 l 7134 14715 l
  cp gs col7 1.00 shd ef gr gs col0 s gr 
 % Polyline
-n 7134 14573 m 8001 14573 l 8001 14775 l 7134 14775 l
+n 4810 14349 m 5822 14349 l 5822 14756 l 4810 14756 l
  cp gs col7 1.00 shd ef gr gs col0 s gr 
 % Polyline
 n 2935 13299 m 3947 13299 l 3947 13706 l 2935 13706 l
