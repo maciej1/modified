@@ -1,7 +1,7 @@
 %!PS-Adobe-2.0 EPSF-2.0
-%%Title: fig_equivalent_diversity_model.fig
+%%Title: fig_equivalent_diversity_model_b.fig
 %%Creator: fig2dev Version 3.2 Patchlevel 5c
-%%CreationDate: Fri May  2 23:40:17 2014
+%%CreationDate: Sat May  3 00:04:54 2014
 %%For: maciej@macmat (,S-1-5-21-2802288663-1349938878-1071959951-1006)
 %%BoundingBox: 0 0 440 354
 %Magnification: 1.0000
@@ -202,25 +202,25 @@ n 3450 13008 29 33 0 360 DrawEllipse gs col0 s gr
 n 3450 18324 29 33 0 360 DrawEllipse gs col0 s gr
 
 % Ellipse
-n 6924 14475 21 21 0 360 DrawEllipse gs 0.00 setgray ef gr gs col0 s gr
-
-% Ellipse
 n 6696 14475 33 33 0 360 DrawEllipse gs col0 s gr
 
 % Ellipse
-n 6936 16800 21 21 0 360 DrawEllipse gs 0.00 setgray ef gr gs col0 s gr
+n 2862 14550 42 42 0 360 DrawEllipse gs 0.00 setgray ef gr gs col0 s gr
 
 % Ellipse
-n 2868 14550 42 42 0 360 DrawEllipse gs 0.00 setgray ef gr gs col0 s gr
-
-% Ellipse
-n 2868 16725 42 42 0 360 DrawEllipse gs 0.00 setgray ef gr gs col0 s gr
+n 2862 16725 42 42 0 360 DrawEllipse gs 0.00 setgray ef gr gs col0 s gr
 
 % Ellipse
 n 3456 14025 42 42 0 360 DrawEllipse gs 0.00 setgray ef gr gs col0 s gr
 
 % Ellipse
 n 3456 17250 42 42 0 360 DrawEllipse gs 0.00 setgray ef gr gs col0 s gr
+
+% Ellipse
+n 6924 14475 21 21 0 360 DrawEllipse gs 0.00 setgray ef gr gs col0 s gr
+
+% Ellipse
+n 6924 16800 21 21 0 360 DrawEllipse gs 0.00 setgray ef gr gs col0 s gr
 
 % Polyline
 gs  clippath
